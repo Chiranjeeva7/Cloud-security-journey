@@ -14,7 +14,7 @@ What I Learned
 
 
 Commands Practiced
-bash
+```bash
 pwd
 ls -la
 cd /
